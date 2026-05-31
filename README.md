@@ -1,18 +1,16 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:008f11,100:0d0208&height=200&section=header&text=Hey%2C%20I'm%20Rajesh!&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Learner%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=55&descSize=18&descColor=39ff14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0208,60:003b00,100:00ff41&height=220&section=header&text=Hey%2C%20I'm%20Rajesh!%20👾&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Learner%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=58&descSize=18&descColor=39ff14" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%24+whoami+--verbose;Rajesh+%7C+Security+Researcher+in+the+Making+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=650&lines=%24+whoami+%E2%86%92+Rajesh+%7C+Security+Researcher+%F0%9F%94%90;%24+cat+skills.txt+%E2%86%92+Kali+%7C+nmap+%7C+Burp+%7C+CTF+%F0%9F%8F%B4;%24+echo+motto+%E2%86%92+Hack+the+Planet.+Ethically.+%F0%9F%8C+;%24+nmap+-sV+tryhackme+%E2%86%92+Top+25%25+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Visitor Badge + Profile Views -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rajesh.Rajesh&color=00ff41&labelColor=0d0208)
-![GitHub followers](https://img.shields.io/github/followers/Rajesh?label=Followers&style=flat&color=00ff41&labelColor=0d0208&logo=github)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=raj-08-del.raj-08-del&color=00ff41&labelColor=0d0208&label=Visitors)](https://github.com/raj-08-del)
+[![GitHub followers](https://img.shields.io/github/followers/raj-08-del?label=Followers&style=flat&color=00ff41&labelColor=0d0208&logo=github)](https://github.com/raj-08-del)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%2025%25-red?style=flat&logo=tryhackme&logoColor=white&labelColor=0d0208)](https://tryhackme.com/p/Raje)
 
 </div>
 
@@ -24,12 +22,15 @@
 ┌──(rajesh㉿kali)-[~/about]
 └─$ cat about_me.txt
 
-  Name     : Rajesh
-  Location : Tiruchengodu, Tamil Nadu, India 🇮🇳
-  Role     : Cybersecurity Learner | Ethical Hacker (in progress)
-  Focus    : Penetration Testing | CTF Competitions | Red Teaming
-  Current  : Phase 2 → Web App Security & Network Recon
-  Motto    : "Hack the Planet. Ethically. 🔐"
+  Name      : Rajesh R
+  Alias     : [0x5][VISIONARY] 👁️
+  Location  : Tiruchengodu, Tamil Nadu, India 🇮🇳
+  Role      : Cybersecurity Learner | Ethical Hacker (in progress)
+  Community : Synapse Society 🧠
+  Focus     : Penetration Testing | CTF Competitions | Red Teaming
+  Current   : Phase 2 → Web App Security & Network Recon
+  THM Rank  : Top 25% | 24 Rooms Completed 🏆
+  Motto     : "Hack the Planet. Ethically. 🔐"
 ```
 
 ---
@@ -46,6 +47,8 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-00FF41?style=for-the-badge&logo=linux&logoColor=black)
+![Gobuster](https://img.shields.io/badge/Gobuster-8B0000?style=for-the-badge&logo=linux&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
 
 ### 💻 Tech Stack
 
@@ -55,6 +58,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### ☁️ Cloud & Big Data
 
@@ -70,12 +74,12 @@
 
 <div align="center">
 
-| Platform | Status | Focus |
-|:--------:|:------:|:-----:|
-| 🏴 **TryHackMe** | Active | Web Exploitation, Linux |
-| 🎯 **PicoCTF** | Active | Forensics, Crypto, Binary |
-| 💣 **VulnHub** | Learning | Boot2Root Machines |
-| 🔴 **HackTheBox** | Upcoming | Red Team Labs |
+| Platform | Rank / Status | Completed | Focus |
+|:--------:|:-------------:|:---------:|:-----:|
+| 🏴 **TryHackMe** | 🏆 Top 25% | 24 Rooms | Web Exploitation, Linux |
+| 🎯 **PicoCTF** | Active | Ongoing | Forensics, Crypto, Binary |
+| 💣 **VulnHub** | Learning | Boot2Root | Boot2Root Machines |
+| 🔴 **HackTheBox** | Upcoming | — | Red Team Labs |
 
 </div>
 
@@ -89,7 +93,7 @@
 [🔄] Security+ (In Progress)
 [⏳] eJPT - eLearnSecurity Junior Penetration Tester
 [⏳] CEH - Certified Ethical Hacker
-[🎯] OSCP - Offensive Security Certified Professional (Goal)
+[🎯] OSCP - Offensive Security Certified Professional (Ultimate Goal)
 ```
 
 ---
@@ -98,12 +102,27 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajesh&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0208&title_color=00ff41&text_color=00ff41&icon_color=39ff14&border_color=00ff41"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh&layout=compact&theme=chartreuse-dark&bg_color=0d0208&title_color=00ff41&text_color=00ff41&border_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj-08-del&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0208&title_color=00ff41&text_color=00ff41&icon_color=39ff14&border_color=00ff41&hide_border=false"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-08-del&layout=compact&theme=chartreuse-dark&bg_color=0d0208&title_color=00ff41&text_color=00ff41&border_color=00ff41"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=raj-08-del&theme=matrix&background=0D0208&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00ff41&dates=00ff41&border=00FF41&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rajesh&theme=matrix&background=0D0208&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00FF41&border=00FF41)](https://git.io/streak-stats)
+[![Rajesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raj-08-del&bg_color=0d0208&color=00ff41&line=00ff41&point=39ff14&area=true&hide_border=false&border_color=00ff41)](https://github.com/raj-08-del)
+
+</div>
+
+---
+
+## `$ cat tryhackme_stats.txt`
+
+<div align="center">
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Raje.png)](https://tryhackme.com/p/Raje)
 
 </div>
 
@@ -112,7 +131,7 @@
 ## `$ ping synapse_society`
 
 ```bash
-> Community   : Synapse Society 🧠 — Tiruchengodu
+> Community   : Synapse Society 🧠 — Tiruchengodu, Tamil Nadu
 > Role        : Knowledge Sharer | Tech Enthusiast
 > Activities  : Workshops | CTF Teams | Slides & PDF Guides
 > Philosophy  : "Learn → Build → Share → Repeat 🔁"
@@ -124,9 +143,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-raman-169b04330)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%2025%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Raje)
+[![Email](https://img.shields.io/badge/Gmail-rajcybertech08-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajcybertech08@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-raj--08--del-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj-08-del)
 
 </div>
 
@@ -134,25 +154,8 @@
 
 <div align="center">
 
-<!-- Snake Animation (enable via GitHub Actions) -->
-<img src="https://raw.githubusercontent.com/Rajesh/Rajesh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+### 💀 `root@rajesh:~# Keep Hacking. Stay Ethical. 🔐`
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:008f11,100:00ff41&height=120&section=footer&text=Keep+Hacking.+Stay+Ethical.+🔐&fontSize=18&fontColor=00ff41&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:000000&height=120&section=footer&animation=twinkling" />
 
 </div>
-
-<!--
-**raj-08-del/raj-08-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
