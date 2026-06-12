@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff41&height=250&section=header&text=%20%20%F0%9F%92%80%20r4j3sh.exe%20%F0%9F%92%80&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=%5B%20Ethical%20Hacker%20%5D%20%5B%20CTF%20Player%20%5D%20%5B%200x5%20VISIONARY%20%5D&descAlignY=62&descSize=17&descColor=39ff14&stroke=00ff41&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001a00,80:003300,100:00ff41&height=280&section=header&text=%F0%9F%92%80%20r4j3sh.exe%20%F0%9F%92%80&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%5B%200x6%20%5D%5B%20VOYAGER%20%5D%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20CTF%20Pwner%20%E2%80%A2%20Security%20Researcher&descAlignY=60&descSize=16&descColor=39ff14&stroke=00ff41&strokeWidth=2" />
 
 </div>
 
 <div align="center">
 
 ```
-███████╗████████╗██╗  ██╗██╗ ██████╗ █████╗ ██╗          ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗
-██╔════╝╚══██╔══╝██║  ██║██║██╔════╝██╔══██╗██║          ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
-█████╗     ██║   ███████║██║██║     ███████║██║          ███████║███████║██║     █████╔╝ █████╗  ██████╔╝
-██╔══╝     ██║   ██╔══██║██║██║     ██╔══██║██║          ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
-███████╗   ██║   ██║  ██║██║╚██████╗██║  ██║███████╗     ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
-╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+██████╗  █████╗      ██╗███████╗███████╗██╗  ██╗    ██████╗
+██╔══██╗██╔══██╗     ██║██╔════╝██╔════╝██║  ██║    ██╔══██╗
+██████╔╝███████║     ██║█████╗  ███████╗███████║    ██████╔╝
+██╔══██╗██╔══██║██   ██║██╔══╝  ╚════██║██╔══██║    ██╔══██╗
+██║  ██║██║  ██║╚█████╔╝███████╗███████║██║  ██║    ██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝
 ```
 
 </div>
@@ -20,16 +20,22 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%5BSYSTEM+BOOT%5D...+Initializing+hacker+profile+%F0%9F%92%BB;%24+whoami+%E2%86%92+Rajesh+R+%7C+%5B0x5%5D%5BVISIONARY%5D+%F0%9F%91%81%EF%B8%8F;%24+nmap+-sV+--open+target+%E2%86%92+vulnerabilities+found+%F0%9F%94%A5;%24+cat+%2Fetc%2Fpasswd+%E2%86%92+Access+Granted+%E2%9C%85;%5BMISSION%5D+Hack+the+Planet.+Ethically.+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+%E2%96%88+Initializing+hacker+profile...+%F0%9F%92%BB;%24+whoami+%E2%86%92+Rajesh+R+%7C+%5B0x6%5D%5BVOYAGER%5D+%F0%9F%91%81%EF%B8%8F;%24+nmap+-A+-sV+target+%E2%86%92+%5B%2B%5D+vulnerabilities+found+%F0%9F%94%A5;%24+msfconsole+%E2%86%92+%5B%2B%5D+exploit%2Fmulti%2Fhandler+ready;%24+cat+%2Fetc%2Fshadow+%E2%86%92+%5BACCESS+GRANTED%5D+%E2%9C%85;%5BMISSION%5D+Hack+the+Planet.+Ethically.+%F0%9F%94%90" alt="Typing SVG" />
 </a>
+
+</div>
 
 <br/>
 
-![](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=000000&logo=linux&logoColor=00ff41)
-![](https://img.shields.io/badge/THREAT_LEVEL-ETHICAL-00ff41?style=flat-square&labelColor=000000)
+<div align="center">
+
+![STATUS](https://img.shields.io/badge/%E2%96%BA%20STATUS-ONLINE-00ff41?style=flat-square&labelColor=000000&logo=linux&logoColor=00ff41)
+![THREAT](https://img.shields.io/badge/THREAT__LEVEL-ETHICAL-00ff41?style=flat-square&labelColor=000000)
+![OS](https://img.shields.io/badge/OS-Parrot%20%7C%20Kali-00ff41?style=flat-square&labelColor=000000&logo=linux&logoColor=00ff41)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=raj-08-del.raj-08-del&color=00ff41&labelColor=000000&label=INTRUSIONS)](https://github.com/raj-08-del)
 [![GitHub followers](https://img.shields.io/github/followers/raj-08-del?label=ALLIES&style=flat-square&color=00ff41&labelColor=000000&logo=github)](https://github.com/raj-08-del)
-[![TryHackMe](https://img.shields.io/badge/THM-TOP%2025%25-red?style=flat-square&logo=tryhackme&logoColor=white&labelColor=000000)](https://tryhackme.com/p/Raje)
+[![TryHackMe](https://img.shields.io/badge/THM-TOP%2025%25%20%7C%200x6%20VOYAGER-red?style=flat-square&logo=tryhackme&logoColor=white&labelColor=000000)](https://tryhackme.com/p/Rajesh.R)
+[![HTB](https://img.shields.io/badge/HTB-Rajeshkira%20%7C%20Lvl%202-9FEF00?style=flat-square&logo=hackthebox&logoColor=black&labelColor=000000)](https://app.hackthebox.com/users/3215329)
 
 </div>
 
@@ -37,59 +43,66 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> `[SYSTEM] >> INITIATING IDENTITY SCAN...`
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> `[root@rajesh ~]# cat identity.conf`
 
 ```bash
-╔═══════════════════════════════════════════════════════════════╗
-║                   ☠️  HACKER PROFILE v2.0  ☠️                  ║
-╠═══════════════════════════════════════════════════════════════╣
-║  TARGET        : Rajesh R                                     ║
-║  ALIAS         : [0x5][VISIONARY] 👁️                          ║
-║  ORIGIN        : Tiruchengodu, Tamil Nadu, India 🇮🇳           ║
-║  AFFILIATION   : Synapse Society 🧠                           ║
-║  THREAT CLASS  : Ethical Hacker (in training)                 ║
-║  CURRENT OP    : Phase 2 → Web App Pentesting                 ║
-║  THM STATUS    : Top 25% | 24 Rooms Pwned 🏆                  ║
-║  THM RANK      : [0x5] VISIONARY | 4 Badges                  ║
-║  MISSION       : "Hack the Planet. Ethically. 🔐"             ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                 ☠️   HACKER PROFILE  v3.0   ☠️                   ║
+╠══════════════════════════════════════════════════════════════════╣
+║  TARGET        : Rajesh R                                        ║
+║  ALIAS         : [0x6][VOYAGER] 👁️                               ║
+║  ORIGIN        : Tiruchengodu, Tamil Nadu, India 🇮🇳              ║
+║  AFFILIATION   : Synapse Society 🧠  |  Mahendra Engineering     ║
+║  THREAT CLASS  : Ethical Hacker | Penetration Tester             ║
+║  CURRENT OP    : Phase 3 → Network Pentest + Cloud Security      ║
+║  THM STATUS    : Top 25% | 29 Rooms Pwned | 5 Badges 🏆          ║
+║  THM RANK      : [0x6] VOYAGER 🚀                                ║
+║  HTB STATUS    : Rajeshkira | Level 2 | Beginner Tier 🟢         ║
+║  MISSION       : "Hack the Planet. Ethically. 🔐"                ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## `[SCAN] >> nmap -sV --arsenal rajesh`
+## `[root@rajesh ~]# nmap -sV --arsenal ./skills/`
 
 <div align="center">
 
-### ☠️ Offensive Security Tools
+### ☠️ Offensive Security Arsenal
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-1EB2A6?style=for-the-badge&logo=linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-00FF41?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-8B0000?style=for-the-badge&logo=linux&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-00FF41?style=for-the-badge&logo=linux&logoColor=black)
 ![CyberChef](https://img.shields.io/badge/CyberChef-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
-![Macchanger](https://img.shields.io/badge/Macchanger-00FF41?style=for-the-badge&logo=linux&logoColor=black)
-![Dirb](https://img.shields.io/badge/Dirb-grey?style=for-the-badge&logo=linux&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-DC143C?style=for-the-badge&logo=linux&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_The_Ripper-FFD700?style=for-the-badge&logo=linux&logoColor=black)
+![Hydra](https://img.shields.io/badge/Hydra-6A0DAD?style=for-the-badge&logo=linux&logoColor=white)
 
-### 💻 Programming & Dev
+### 💻 Programming & Dev Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### ☁️ Cloud & Platforms
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 </div>
 
@@ -97,24 +110,24 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## `[BREACH LOG] >> cat /var/log/ctf_wins.txt`
+## `[root@rajesh ~]# cat /var/log/ctf_breach_log.txt`
 
 <div align="center">
 
 ```
-[+] TARGET ACQUIRED    : TryHackMe    → TOP 25% | 24 ROOMS PWNED 🏆
-[+] TARGET ACQUIRED    : PicoCTF      → ACTIVE  | FORENSICS + CRYPTO 🎯
-[+] TARGET IN PROGRESS : VulnHub      → LEARNING | BOOT2ROOT 💣
-[+] TARGET LOCKED      : HackTheBox   → UPCOMING | RED TEAM LABS 🔴
-[+] TARGET LOCKED      : OSCP         → FINAL BOSS 💀
+[✅] PLATFORM PWNED   : TryHackMe     → TOP 25% | 29 ROOMS | 5 BADGES | [0x6] VOYAGER 🚀
+[✅] PLATFORM PWNED   : PicoCTF       → ACTIVE  | FORENSICS + CRYPTO + BINARY 🎯
+[🔄] TARGET ACTIVE    : HackTheBox    → LIVE    | Rajeshkira | Lvl 2 | Beginner Tier 🟢
+[🔄] TARGET ACTIVE    : VulnHub       → LEARNING | BOOT2ROOT MACHINES 💣
+[⏳] TARGET LOCKED    : OSCP          → FINAL BOSS 💀
 ```
 
-| 🎯 Platform | 🏆 Status | 💥 Rooms/Challenges | 🔍 Speciality |
-|:-----------:|:---------:|:-------------------:|:-------------:|
-| **TryHackMe** | Top 25% 🥇 | 24 Pwned | Web Exploitation, Linux |
-| **PicoCTF** | Active ⚡ | Ongoing | Forensics, Crypto, Binary |
-| **VulnHub** | Learning 🔧 | Boot2Root | Privilege Escalation |
-| **HackTheBox** | Incoming 🎯 | — | Red Team, AD |
+| 🎯 Platform | 🏆 Status | 💥 Rooms / Challenges | 🔍 Speciality |
+|:-----------:|:---------:|:--------------------:|:-------------:|
+| **TryHackMe** | 🥇 Top 25% · [0x6] VOYAGER | **29 Pwned · 5 Badges** | Web Exploitation, Linux, Network |
+| **HackTheBox** | 🟢 Active · Lvl 2 Beginner | ProLabs Unlocked | Red Team, Machines |
+| **PicoCTF** | ⚡ Active | Ongoing | Forensics, Crypto, Binary |
+| **VulnHub** | 🔧 Learning | Boot2Root | Privilege Escalation, Shells |
 
 </div>
 
@@ -122,11 +135,32 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## `[PROGRESS] >> cat cert_roadmap.sh --execute`
+## `[root@rajesh ~]# ./pentest_toolkit.sh --show-techniques`
+
+<div align="center">
+
+```
+[+] RECON        → Nmap (NSE), Gobuster, Nikto, theHarvester
+[+] EXPLOITATION → Metasploit, Manual Payloads, EternalBlue (MS17-010)
+[+] WEB ATTACKS  → SQLi, XSS, Path Traversal, CVE-2021-41773/42013
+[+] SHELLS       → Reverse Shell, Bind Shell, PHP Webshell, Shell Upgrade
+[+] POST-EXPLOIT → Privilege Escalation (SUID/SGID, sudo -l, cron, caps)
+[+] DEFENSE      → iptables, fail2ban, portsentry, tcpdump, SSH Hardening
+```
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## `[root@rajesh ~]# cat cert_pwn_list.sh | bash`
 
 ```bash
 #!/bin/bash
-# Rajesh's Certification Pwn List
+# ╔═══════════════════════════════════════════════╗
+# ║      Rajesh's Certification Conquest Path     ║
+# ╚═══════════════════════════════════════════════╝
 
 echo "[✅] COMPLETED  → Networking Fundamentals"
 echo "[✅] COMPLETED  → Linux CLI & System Administration"
@@ -135,14 +169,17 @@ echo "[⏳] QUEUED     → eJPT - eLearnSecurity Junior Pentester"
 echo "[⏳] QUEUED     → CEH  - Certified Ethical Hacker"
 echo "[💀] FINAL BOSS → OSCP - Offensive Security Certified Pro"
 
-# Status: 2/6 Complete | 33% done | Keep going...
+echo ""
+echo "[PROGRESS BAR] ████████░░░░░░░░░░░░  2/6 | 33% Done"
+echo "[LOG] Subject: Rajesh R | Class: Ethical Hacker in Training"
+echo "[LOG] Target: OSCP | ETA: T-minus 12 months | Status: LOCKED IN 🔐"
 ```
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## `[RECON] >> ./github_stats.sh --target raj-08-del`
+## `[root@rajesh ~]# ./github_recon.sh --target raj-08-del`
 
 <div align="center">
 
@@ -164,11 +201,20 @@ echo "[💀] FINAL BOSS → OSCP - Offensive Security Certified Pro"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## `[EXTERNAL] >> curl tryhackme.com/p/Raje`
+## `[root@rajesh ~]# curl tryhackme.com/p/Rajesh.R`
 
 <div align="center">
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Raje.png)](https://tryhackme.com/p/Raje)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Rajesh.R.png)](https://tryhackme.com/p/Rajesh.R)
+
+```
+[+] USERNAME    : Rajesh.R
+[+] RANK        : [0x6] VOYAGER 🚀
+[+] GLOBAL      : TOP 25%
+[+] ROOMS PWNED : 29 🏴
+[+] BADGES      : 5 🏅
+[+] STREAK      : 2 🔥
+```
 
 </div>
 
@@ -176,16 +222,38 @@ echo "[💀] FINAL BOSS → OSCP - Offensive Security Certified Pro"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## `[NETWORK] >> ping synapse_society --verbose`
+## `[root@rajesh ~]# curl app.hackthebox.com/users/Rajeshkira`
+
+<div align="center">
 
 ```
+[+] USERNAME    : Rajeshkira
+[+] COUNTRY     : India 🇮🇳
+[+] LEVEL       : 2 (Beginner Tier) 🟢
+[+] XP          : 140 / 196
+[+] SEASON      : 11 — Unranked
+[+] LABS STATUS : ProLabs accessible 🔓
+[+] MACHINES    : 0/24 (Loading... 💣)
+```
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## `[root@rajesh ~]# ping synapse_society -v`
+
+```bash
 PING synapse_society (192.168.1.337) 56(84) bytes of data.
 64 bytes from Tiruchengodu: icmp_seq=1 ttl=64 time=0.1ms ✅
+64 bytes from Tamil_Nadu:   icmp_seq=2 ttl=64 time=0.2ms ✅
 
 > Community   : Synapse Society 🧠 — Tiruchengodu, Tamil Nadu
-> Role        : Knowledge Sharer | Tech Enthusiast | Mentor
-> Activities  : Workshops | CTF Teams | Slides & PDF Guides
+> Role        : Organizer | Mentor | Cybersecurity Educator
+> Activities  : Workshops | CTF Teams | Networking Curriculum | PDF Guides
 > Philosophy  : "Learn → Build → Share → Repeat 🔁"
+> Curriculum  : 30-Day Networking Plan | Cybersecurity Awareness Sessions
 > Status      : ACTIVE | Always online for the community 💚
 ```
 
@@ -193,12 +261,13 @@ PING synapse_society (192.168.1.337) 56(84) bytes of data.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## `[CONNECT] >> ./open_channels.sh`
+## `[root@rajesh ~]# ./open_channels.sh --all`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajesh_Raman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-raman-169b04330)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Raje_%7C_Top_25%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Raje)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Rajesh.R_%7C_%5B0x6%5D_VOYAGER-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Rajesh.R)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Rajeshkira-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/3215329)
 [![Gmail](https://img.shields.io/badge/Gmail-rajcybertech08-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajcybertech08@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-raj--08--del-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj-08-del)
 
@@ -209,151 +278,22 @@ PING synapse_society (192.168.1.337) 56(84) bytes of data.
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   ██████╗  ██████╗  ██████╗ ████████╗               ║
-║   ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝               ║
-║   ██████╔╝██║   ██║██║   ██║   ██║                  ║
-║   ██╔══██╗██║   ██║██║   ██║   ██║                  ║
-║   ██║  ██║╚██████╔╝╚██████╔╝   ██║                  ║
-║   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝                  ║
-║                                                      ║
-║        root@rajesh:~# chmod 777 future.sh            ║
-║        root@rajesh:~# ./future.sh --ethical          ║
-║        [+] Hacking... Done. Ethically. 🔐            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ██████╗  ██████╗  ██████╗ ████████╗    ██████╗           ║
+║    ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ╚════██╗          ║
+║    ██████╔╝██║   ██║██║   ██║   ██║        █████╔╝          ║
+║    ██╔══██╗██║   ██║██║   ██║   ██║       ██╔═══╝           ║
+║    ██║  ██║╚██████╔╝╚██████╔╝   ██║       ███████╗          ║
+║    ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝       ╚══════╝          ║
+║                                                              ║
+║     root@rajesh:~# chmod 777 future.sh && ./future.sh        ║
+║     [+] Hacking the Planet... Done. Ethically. 🔐            ║
+║     [+] Rank: [0x6][VOYAGER] → [0x7][???] incoming...       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a00,100:00ff41&height=130&section=footer&text=root%40rajesh%3A~%23%20logout&fontSize=20&fontColor=00ff41&animation=twinkling&fontAlignY=65" />
-
-</div>
-Motto     : "Hack the Planet. Ethically. 🔐"
-```
-
----
-
-## `$ nmap -sV --skills rajesh`
-
-<div align="center">
-
-### 🛡️ Cybersecurity Arsenal
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Nmap](https://img.shields.io/badge/nmap-00FF41?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-00FF41?style=for-the-badge&logo=linux&logoColor=black)
-![Gobuster](https://img.shields.io/badge/Gobuster-8B0000?style=for-the-badge&logo=linux&logoColor=white)
-![CyberChef](https://img.shields.io/badge/CyberChef-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
-
-### 💻 Tech Stack
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### ☁️ Cloud & Big Data
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
----
-
-## `$ ls ~/ctf_achievements/`
-
-<div align="center">
-
-| Platform | Rank / Status | Completed | Focus |
-|:--------:|:-------------:|:---------:|:-----:|
-| 🏴 **TryHackMe** | 🏆 Top 25% | 24 Rooms | Web Exploitation, Linux |
-| 🎯 **PicoCTF** | Active | Ongoing | Forensics, Crypto, Binary |
-| 💣 **VulnHub** | Learning | Boot2Root | Boot2Root Machines |
-| 🔴 **HackTheBox** | Upcoming | — | Red Team Labs |
-
-</div>
-
----
-
-## `$ cat certifications_roadmap.txt`
-
-```
-[✅] Networking Fundamentals
-[✅] Linux CLI & Administration
-[🔄] Security+ (In Progress)
-[⏳] eJPT - eLearnSecurity Junior Penetration Tester
-[⏳] CEH - Certified Ethical Hacker
-[🎯] OSCP - Offensive Security Certified Professional (Ultimate Goal)
-```
-
----
-
-## `$ ./github_stats.sh`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj-08-del&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0208&title_color=00ff41&text_color=00ff41&icon_color=39ff14&border_color=00ff41&hide_border=false"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-08-del&layout=compact&theme=chartreuse-dark&bg_color=0d0208&title_color=00ff41&text_color=00ff41&border_color=00ff41"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=raj-08-del&theme=matrix&background=0D0208&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00ff41&dates=00ff41&border=00FF41&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
-
-<br/>
-
-[![Rajesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raj-08-del&bg_color=0d0208&color=00ff41&line=00ff41&point=39ff14&area=true&hide_border=false&border_color=00ff41)](https://github.com/raj-08-del)
-
-</div>
-
----
-
-## `$ cat tryhackme_stats.txt`
-
-<div align="center">
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Raje.png)](https://tryhackme.com/p/Raje)
-
-</div>
-
----
-
-## `$ ping synapse_society`
-
-```bash
-> Community   : Synapse Society 🧠 — Tiruchengodu, Tamil Nadu
-> Role        : Knowledge Sharer | Tech Enthusiast
-> Activities  : Workshops | CTF Teams | Slides & PDF Guides
-> Philosophy  : "Learn → Build → Share → Repeat 🔁"
-```
-
----
-
-## `$ ./connect.sh --open`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-raman-169b04330)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%2025%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Raje)
-[![Email](https://img.shields.io/badge/Gmail-rajcybertech08-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajcybertech08@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-raj--08--del-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj-08-del)
-
-</div>
-
----
-
-<div align="center">
-
-### 💀 `root@rajesh:~# Keep Hacking. Stay Ethical. 🔐`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:000000&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a00,100:00ff41&height=140&section=footer&text=root%40rajesh%3A~%23%20logout%20--ethically&fontSize=20&fontColor=00ff41&animation=twinkling&fontAlignY=65" />
 
 </div>
