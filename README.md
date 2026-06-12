@@ -47,12 +47,12 @@
 
 ```bash
 ╔══════════════════════════════════════════════════════════════════╗
-║                 ☠️   HACKER PROFILE  v3.0   ☠️                   ║
+║                 ☠️   HACKER PROFILE  v3.0   ☠️                  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  TARGET        : Rajesh R                                        ║
-║  ORIGIN        : Salem, Tamil Nadu, India 🇮🇳                     ║
-║  AFFILIATION   :  Mahendra Engineering                           ║
-║  THREAT CLASS  : Ethical Hacker | Penetration Tester             ║
+║  ORIGIN        : Salem, Tamil Nadu, India 🇮🇳                      ║
+║  AFFILIATION   :  Mahendra Engineering                            ║
+║  THREAT CLASS  : Ethical Hacker | Penetration Tester              ║
 ║  THM STATUS    : Top 25% | 29 Rooms Pwned | 5 Badges 🏆          ║
 ║  THM RANK      : [0x6] VOYAGER 🚀                                ║
 ║  HTB STATUS    : Rajeshkira | Level 2 | Beginner Tier 🟢         ║
@@ -278,16 +278,16 @@ PING synapse_society (192.168.1.337) 56(84) bytes of data.
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║    ██████╗  ██████╗  ██████╗ ████████╗    ██████╗           ║
-║    ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ╚════██╗          ║
-║    ██████╔╝██║   ██║██║   ██║   ██║        █████╔╝          ║
-║    ██╔══██╗██║   ██║██║   ██║   ██║       ██╔═══╝           ║
-║    ██║  ██║╚██████╔╝╚██████╔╝   ██║       ███████╗          ║
-║    ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝       ╚══════╝          ║
+║    ██████╗  ██████╗  ██████╗ ████████╗    ██████╗            ║
+║    ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ╚════██╗           ║
+║    ██████╔╝██║   ██║██║   ██║   ██║        █████╔╝           ║
+║    ██╔══██╗██║   ██║██║   ██║   ██║       ██╔═══╝            ║
+║    ██║  ██║╚██████╔╝╚██████╔╝   ██║       ███████╗           ║
+║    ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝       ╚══════╝            ║
 ║                                                              ║
 ║     root@rajesh:~# chmod 777 future.sh && ./future.sh        ║
-║     [+] Hacking the Planet... Done. Ethically. 🔐            ║
-║     [+] Rank: [0x6][VOYAGER] → [0x7][???] incoming...       ║
+║     [+] Hacking the Planet... Done. Ethically. 🔐           ║
+║     [+] Rank: [0x6][VOYAGER] → [0x7][???] incoming...        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
