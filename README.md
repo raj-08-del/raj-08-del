@@ -181,7 +181,32 @@ echo "[TARGET]    OSCP  |  ETA: T-12 months  |  LOCKED IN"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raj-08-del&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=4&rank=S,AAA,AA,A,B,C,SECRET)](https://github.com/raj-08-del)
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                    ACHIEVEMENT UNLOCKED                           ║
+╠══════════════╦════════════════════════════╦═══════════════════════╣
+║  PLATFORM    ║  ACHIEVEMENT               ║  STATUS               ║
+╠══════════════╬════════════════════════════╬═══════════════════════╣
+║  TryHackMe   ║  [0x6] VOYAGER             ║  UNLOCKED             ║
+║  TryHackMe   ║  Top 25% Global            ║  UNLOCKED             ║
+║  TryHackMe   ║  29 Rooms Pwned            ║  UNLOCKED             ║
+║  TryHackMe   ║  5 Badges Earned           ║  UNLOCKED             ║
+║  HackTheBox  ║  Beginner Tier - Level 2   ║  UNLOCKED             ║
+║  GitHub      ║  MultiLanguage Coder       ║  UNLOCKED             ║
+║  GitHub      ║  14 Commits Pushed         ║  UNLOCKED             ║
+║  IRL         ║  Cybercrime Unit Intern    ║  UNLOCKED             ║
+║  IRL         ║  Synapse Society Organizer ║  UNLOCKED             ║
+║  UPCOMING    ║  CompTIA Security+         ║  IN PROGRESS...       ║
+║  FINAL BOSS  ║  OSCP                      ║  LOCKED               ║
+╚══════════════╩════════════════════════════╩═══════════════════════╝
+```
+
+![Commits](https://img.shields.io/badge/Commits-14-00ff41?style=for-the-badge&labelColor=000000&logo=github)
+![Rooms Pwned](https://img.shields.io/badge/Rooms_Pwned-29-red?style=for-the-badge&labelColor=000000&logo=tryhackme)
+![THM Rank](https://img.shields.io/badge/THM_Rank-0x6_VOYAGER-red?style=for-the-badge&labelColor=000000&logo=tryhackme)
+![HTB Level](https://img.shields.io/badge/HTB_Level-2_Beginner-9FEF00?style=for-the-badge&labelColor=000000&logo=hackthebox&logoColor=black)
+![Badges](https://img.shields.io/badge/THM_Badges-5-orange?style=for-the-badge&labelColor=000000)
+![Languages](https://img.shields.io/badge/Languages-5-3776AB?style=for-the-badge&labelColor=000000&logo=python)
 
 </div>
 
