@@ -214,6 +214,20 @@ echo "[TARGET]    OSCP  |  ETA: T-12 months  |  LOCKED IN"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## `[root@rajesh ~]# python3 snake.py --eat-commits`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/raj-08-del/raj-08-del/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/raj-08-del/raj-08-del/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img alt="github-snake" src="https://github.com/raj-08-del/raj-08-del/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+</picture>
+
+</div>
+
+---
+
 ## `[root@rajesh ~]# ./github_recon.sh --target raj-08-del`
 
 <div align="center">
