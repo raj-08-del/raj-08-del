@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001a00,80:003300,100:00ff41&height=280&section=header&text=%F0%9F%92%80%20r4j3sh.exe%20%F0%9F%92%80&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%5B%200x6%20%5D%5B%20VOYAGER%20%5D%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20CTF%20Pwner%20%E2%80%A2%20Security%20Researcher&descAlignY=60&descSize=16&descColor=39ff14&stroke=00ff41&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001a00,80:003300,100:00ff41&height=300&section=header&text=%F0%9F%92%80%20r4j3sh.exe%20%F0%9F%92%80&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%5B%200x6%20%5D%5B%20VOYAGER%20%5D%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20CTF%20Pwner%20%E2%80%A2%20Security%20Researcher&descAlignY=60&descSize=16&descColor=39ff14&stroke=00ff41&strokeWidth=2" />
 
 </div>
 
@@ -34,7 +34,7 @@
 ![OS](https://img.shields.io/badge/OS-Parrot%20%7C%20Kali-00ff41?style=flat-square&labelColor=000000&logo=linux&logoColor=00ff41)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=raj-08-del.raj-08-del&color=00ff41&labelColor=000000&label=INTRUSIONS)](https://github.com/raj-08-del)
 [![GitHub followers](https://img.shields.io/github/followers/raj-08-del?label=ALLIES&style=flat-square&color=00ff41&labelColor=000000&logo=github)](https://github.com/raj-08-del)
-[![TryHackMe](https://img.shields.io/badge/THM-TOP%2025%25%20%7C%200x6%20VOYAGER-red?style=flat-square&logo=tryhackme&logoColor=white&labelColor=000000)](https://tryhackme.com/p/Rajesh.R)
+[![TryHackMe](https://img.shields.io/badge/THM-TOP%2025%25%20%7C%20%5B0x6%5D%20VOYAGER-red?style=flat-square&logo=tryhackme&logoColor=white&labelColor=000000)](https://tryhackme.com/p/Rajesh.R)
 [![HTB](https://img.shields.io/badge/HTB-Rajeshkira%20%7C%20Lvl%202-9FEF00?style=flat-square&logo=hackthebox&logoColor=black&labelColor=000000)](https://app.hackthebox.com/users/3215329)
 
 </div>
@@ -47,16 +47,16 @@
 
 ```bash
 ╔══════════════════════════════════════════════════════════════════╗
-║                 ☠️   HACKER PROFILE  v3.0   ☠️                  ║
+║                 ☠️   HACKER PROFILE  v3.0   ☠️                   ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  TARGET        : Rajesh R                                        ║
-║  ORIGIN        : Salem, Tamil Nadu, India 🇮🇳                      ║
-║  AFFILIATION   :  Mahendra Engineering                            ║
-║  THREAT CLASS  : Ethical Hacker | Penetration Tester              ║
-║  THM STATUS    : Top 25% | 29 Rooms Pwned | 5 Badges 🏆          ║
-║  THM RANK      : [0x6] VOYAGER 🚀                                ║
-║  HTB STATUS    : Rajeshkira | Level 2 | Beginner Tier 🟢         ║
-║  MISSION       : "Hack the Planet. Ethically. 🔐"                ║
+║  ORIGIN        : Salem, Tamil Nadu, India                        ║
+║  AFFILIATION   : Mahendra Engineering College                    ║
+║  THREAT CLASS  : Ethical Hacker  |  Penetration Tester           ║
+║  THM STATUS    : Top 25%  |  29 Rooms Pwned  |  5 Badges         ║
+║  THM RANK      : [0x6] VOYAGER                                   ║
+║  HTB STATUS    : Rajeshkira  |  Level 2  |  Beginner Tier        ║
+║  MISSION       : "Hack the Planet. Ethically."                   ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -113,11 +113,11 @@
 <div align="center">
 
 ```
-[✅] PLATFORM PWNED   : TryHackMe     → TOP 25% | 29 ROOMS | 5 BADGES | [0x6] VOYAGER 🚀
-[✅] PLATFORM PWNED   : PicoCTF       → ACTIVE  | FORENSICS + CRYPTO + BINARY 🎯
-[🔄] TARGET ACTIVE    : HackTheBox    → LIVE    | Rajeshkira | Lvl 2 | Beginner Tier 🟢
-[🔄] TARGET ACTIVE    : VulnHub       → LEARNING | BOOT2ROOT MACHINES 💣
-[⏳] TARGET LOCKED    : OSCP          → FINAL BOSS 💀
+[+] PLATFORM PWNED  : TryHackMe   >> TOP 25% | 29 ROOMS | 5 BADGES | [0x6] VOYAGER
+[+] PLATFORM PWNED  : PicoCTF     >> ACTIVE  | FORENSICS + CRYPTO + BINARY
+[~] TARGET ACTIVE   : HackTheBox  >> LIVE    | Rajeshkira | Lvl 2 | Beginner Tier
+[~] TARGET ACTIVE   : VulnHub     >> LEARNING | BOOT2ROOT MACHINES
+[!] TARGET LOCKED   : OSCP        >> FINAL BOSS
 ```
 
 | 🎯 Platform | 🏆 Status | 💥 Rooms / Challenges | 🔍 Speciality |
@@ -138,12 +138,12 @@
 <div align="center">
 
 ```
-[+] RECON        → Nmap (NSE), Gobuster, Nikto, theHarvester
-[+] EXPLOITATION → Metasploit, Manual Payloads, EternalBlue (MS17-010)
-[+] WEB ATTACKS  → SQLi, XSS, Path Traversal, CVE-2021-41773/42013
-[+] SHELLS       → Reverse Shell, Bind Shell, PHP Webshell, Shell Upgrade
-[+] POST-EXPLOIT → Privilege Escalation (SUID/SGID, sudo -l, cron, caps)
-[+] DEFENSE      → iptables, fail2ban, portsentry, tcpdump, SSH Hardening
+[+] RECON        >> Nmap (NSE Scripts), Gobuster, Nikto, theHarvester
+[+] EXPLOITATION >> Metasploit, Manual Payloads, EternalBlue (MS17-010)
+[+] WEB ATTACKS  >> SQLi, XSS, Path Traversal, CVE-2021-41773 / CVE-2021-42013
+[+] SHELLS       >> Reverse Shell, Bind Shell, PHP Webshell, Shell Upgrade (TTY)
+[+] POST-EXPLOIT >> Privilege Escalation via SUID/SGID, sudo -l, Cron, Capabilities
+[+] DEFENSE      >> iptables, fail2ban, portsentry, tcpdump, SSH Hardening
 ```
 
 </div>
@@ -156,22 +156,34 @@
 
 ```bash
 #!/bin/bash
-# ╔═══════════════════════════════════════════════╗
-# ║      Rajesh's Certification Conquest Path     ║
-# ╚═══════════════════════════════════════════════╝
+# ╔════════════════════════════════════════════════╗
+# ║      Rajesh's Certification Conquest Path      ║
+# ╚════════════════════════════════════════════════╝
 
-echo "[✅] COMPLETED  → Networking Fundamentals"
-echo "[✅] COMPLETED  → Linux CLI & System Administration"
-echo "[🔄] ACTIVE     → CompTIA Security+ (In Progress...)"
-echo "[⏳] QUEUED     → eJPT - eLearnSecurity Junior Pentester"
-echo "[⏳] QUEUED     → CEH  - Certified Ethical Hacker"
-echo "[💀] FINAL BOSS → OSCP - Offensive Security Certified Pro"
+echo "[OK] COMPLETED  >> Networking Fundamentals"
+echo "[OK] COMPLETED  >> Linux CLI & System Administration"
+echo "[>>] ACTIVE     >> CompTIA Security+ (In Progress...)"
+echo "[..] QUEUED     >> eJPT - eLearnSecurity Junior Pentester"
+echo "[..] QUEUED     >> CEH  - Certified Ethical Hacker"
+echo "[!!] FINAL BOSS >> OSCP - Offensive Security Certified Pro"
 
 echo ""
-echo "[PROGRESS BAR] ████████░░░░░░░░░░░░  2/6 | 33% Done"
-echo "[LOG] Subject: Rajesh R | Class: Ethical Hacker in Training"
-echo "[LOG] Target: OSCP | ETA: T-minus 12 months | Status: LOCKED IN 🔐"
+echo "[PROGRESS]  ##########....................  2 / 6  |  33% Done"
+echo "[STATUS]    Subject: Rajesh R  |  Class: Ethical Hacker"
+echo "[TARGET]    OSCP  |  ETA: T-12 months  |  LOCKED IN"
 ```
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## `[root@rajesh ~]# cat /trophy_case.json`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=raj-08-del&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/raj-08-del)
+
+</div>
 
 ---
 
@@ -199,19 +211,37 @@ echo "[LOG] Target: OSCP | ETA: T-minus 12 months | Status: LOCKED IN 🔐"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## `[root@rajesh ~]# python3 snake.py --eat-commits`
+
+<!-- SETUP: Create .github/workflows/snake.yml using Platane/snk action to generate this -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/raj-08-del/raj-08-del/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/raj-08-del/raj-08-del/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img alt="github-snake" src="https://github.com/raj-08-del/raj-08-del/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+</picture>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## `[root@rajesh ~]# curl tryhackme.com/p/Rajesh.R`
 
 <div align="center">
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Rajesh.R.png)](https://tryhackme.com/p/Rajesh.R)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Rajesh.R-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Rajesh.R)
 
 ```
-[+] USERNAME    : Rajesh.R
-[+] RANK        : [0x6] VOYAGER 🚀
-[+] GLOBAL      : TOP 25%
-[+] ROOMS PWNED : 29 🏴
-[+] BADGES      : 5 🏅
-[+] STREAK      : 2 🔥
+[+] USERNAME     : Rajesh.R
+[+] RANK         : [0x6] VOYAGER
+[+] GLOBAL RANK  : TOP 25%
+[+] ROOMS PWNED  : 29
+[+] BADGES       : 5
+[+] STREAK       : 2
+[+] POINTS (XP)  : 41
 ```
 
 </div>
@@ -224,14 +254,16 @@ echo "[LOG] Target: OSCP | ETA: T-minus 12 months | Status: LOCKED IN 🔐"
 
 <div align="center">
 
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Rajeshkira-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/3215329)
+
 ```
-[+] USERNAME    : Rajeshkira
-[+] COUNTRY     : India 🇮🇳
-[+] LEVEL       : 2 (Beginner Tier) 🟢
-[+] XP          : 140 / 196
-[+] SEASON      : 11 — Unranked
-[+] LABS STATUS : ProLabs accessible 🔓
-[+] MACHINES    : 0/24 (Loading... 💣)
+[+] USERNAME     : Rajeshkira
+[+] COUNTRY      : India
+[+] LEVEL        : 2  (Beginner Tier)
+[+] XP           : 140 / 196
+[+] SEASON       : 11 — Unranked
+[+] LABS STATUS  : ProLabs accessible
+[+] MACHINES     : 0/24  (Loading...)
 ```
 
 </div>
@@ -244,15 +276,15 @@ echo "[LOG] Target: OSCP | ETA: T-minus 12 months | Status: LOCKED IN 🔐"
 
 ```bash
 PING synapse_society (192.168.1.337) 56(84) bytes of data.
-64 bytes from Tiruchengodu: icmp_seq=1 ttl=64 time=0.1ms ✅
-64 bytes from Tamil_Nadu:   icmp_seq=2 ttl=64 time=0.2ms ✅
+64 bytes from Tiruchengodu: icmp_seq=1 ttl=64 time=0.1ms  [OK]
+64 bytes from Tamil_Nadu:   icmp_seq=2 ttl=64 time=0.2ms  [OK]
 
-> Community   : Synapse Society 🧠 — Tiruchengodu, Tamil Nadu
-> Role        : Organizer | Mentor | Cybersecurity Educator
-> Activities  : Workshops | CTF Teams | Networking Curriculum | PDF Guides
-> Philosophy  : "Learn → Build → Share → Repeat 🔁"
-> Curriculum  : 30-Day Networking Plan | Cybersecurity Awareness Sessions
-> Status      : ACTIVE | Always online for the community 💚
+  Community    : Synapse Society   -- Tiruchengodu, Tamil Nadu
+  Role         : Organizer | Mentor | Cybersecurity Educator
+  Activities   : Workshops | CTF Teams | Networking Curriculum | PDF Guides
+  Philosophy   : "Learn -> Build -> Share -> Repeat"
+  Curriculum   : 30-Day Networking Plan | Cybersecurity Awareness Sessions
+  Status       : ACTIVE | Always online for the community
 ```
 
 ---
@@ -264,7 +296,7 @@ PING synapse_society (192.168.1.337) 56(84) bytes of data.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajesh_Raman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-raman-169b04330)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Rajesh.R_%7C_%5B0x6%5D_VOYAGER-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Rajesh.R)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Rajesh.R_%5B0x6%5D_VOYAGER-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Rajesh.R)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Rajeshkira-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/3215329)
 [![Gmail](https://img.shields.io/badge/Gmail-rajcybertech08-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajcybertech08@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-raj--08--del-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj-08-del)
@@ -276,20 +308,23 @@ PING synapse_society (192.168.1.337) 56(84) bytes of data.
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ██████╗  ██████╗  ██████╗ ████████╗    ██████╗            ║
-║    ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ╚════██╗           ║
-║    ██████╔╝██║   ██║██║   ██║   ██║        █████╔╝           ║
-║    ██╔══██╗██║   ██║██║   ██║   ██║       ██╔═══╝            ║
-║    ██║  ██║╚██████╔╝╚██████╔╝   ██║       ███████╗           ║
-║    ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝       ╚══════╝            ║
-║                                                              ║
-║     root@rajesh:~# chmod 777 future.sh && ./future.sh        ║
-║     [+] Hacking the Planet... Done. Ethically. 🔐           ║
-║     [+] Rank: [0x6][VOYAGER] → [0x7][???] incoming...        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
++------------------------------------------------------------------+
+|                  TERMINAL SESSION HISTORY                        |
++------------------------------------------------------------------+
+|  root@rajesh:~# history | grep "[+] pwned"                       |
+|                                                                  |
+|  996  nmap -A -T4 --script vuln <target>                         |
+|  997  msfconsole -x "use exploit/windows/smb/ms17_010_eternalblue|
+|  998  python3 -c 'import pty; pty.spawn("/bin/bash")'            |
+|  999  ./privesc.sh --method suid --enumerate all                 |
+| 1000  chmod 777 future.sh && ./future.sh --ethical               |
+|                                                                  |
+|  root@rajesh:~# echo $MISSION                                    |
+|  >> Hack the Planet. Ethically.                                  |
+|                                                                  |
+|  root@rajesh:~# logout                                           |
+|  >> Session closed: Rajesh R  |  [0x6][VOYAGER] -> [0x7]...     |
++------------------------------------------------------------------+
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a00,100:00ff41&height=140&section=footer&text=root%40rajesh%3A~%23%20logout%20--ethically&fontSize=20&fontColor=00ff41&animation=twinkling&fontAlignY=65" />
