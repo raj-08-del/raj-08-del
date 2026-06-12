@@ -47,7 +47,7 @@
 
 ```bash
 ╔══════════════════════════════════════════════════════════════════╗
-║                 ☠️   HACKER PROFILE  v3.0   ☠️                  ║
+║                 ☠️   HACKER PROFILE  v3.0   ☠️                   ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  TARGET        : Rajesh R                                        ║
 ║  ORIGIN        : Salem, Tamil Nadu, India                        ║
@@ -113,11 +113,11 @@
 <div align="center">
 
 ```
- [+] PLATFORM PWNED  : TryHackMe   >> TOP 25% | 29 ROOMS | 5 BADGES | [0x6] VOYAGER
- [+] PLATFORM PWNED  : PicoCTF     >> ACTIVE  | FORENSICS + CRYPTO + BINARY
- [~] TARGET ACTIVE   : HackTheBox  >> LIVE    | Rajeshkira | Lvl 2 | Beginner Tier
- [~] TARGET ACTIVE   : VulnHub     >> LEARNING | BOOT2ROOT MACHINES
- [!] TARGET LOCKED   : OSCP        >> FINAL BOSS
+[+] PLATFORM PWNED  : TryHackMe   >> TOP 25% | 29 ROOMS | 5 BADGES | [0x6] VOYAGER
+[+] PLATFORM PWNED  : PicoCTF     >> ACTIVE  | FORENSICS + CRYPTO + BINARY
+[~] TARGET ACTIVE   : HackTheBox  >> LIVE    | Rajeshkira | Lvl 2 | Beginner Tier
+[~] TARGET ACTIVE   : VulnHub     >> LEARNING | BOOT2ROOT MACHINES
+[!] TARGET LOCKED   : OSCP        >> FINAL BOSS
 ```
 
 | 🎯 Platform | 🏆 Status | 💥 Rooms / Challenges | 🔍 Speciality |
@@ -138,12 +138,12 @@
 <div align="center">
 
 ```
- [+] RECON        >> Nmap (NSE Scripts), Gobuster, Nikto, theHarvester
- [+] EXPLOITATION >> Metasploit, Manual Payloads, EternalBlue (MS17-010)
- [+] WEB ATTACKS  >> SQLi, XSS, Path Traversal, CVE-2021-41773 / CVE-2021-42013
- [+] SHELLS       >> Reverse Shell, Bind Shell, PHP Webshell, Shell Upgrade (TTY)
- [+] POST-EXPLOIT >> Privilege Escalation via SUID/SGID, sudo -l, Cron, Capabilities
- [+] DEFENSE      >> iptables, fail2ban, portsentry, tcpdump, SSH Hardening
+[+] RECON        >> Nmap (NSE Scripts), Gobuster, Nikto, theHarvester
+[+] EXPLOITATION >> Metasploit, Manual Payloads, EternalBlue (MS17-010)
+[+] WEB ATTACKS  >> SQLi, XSS, Path Traversal, CVE-2021-41773 / CVE-2021-42013
+[+] SHELLS       >> Reverse Shell, Bind Shell, PHP Webshell, Shell Upgrade (TTY)
+[+] POST-EXPLOIT >> Privilege Escalation via SUID/SGID, sudo -l, Cron, Capabilities
+[+] DEFENSE      >> iptables, fail2ban, portsentry, tcpdump, SSH Hardening
 ```
 
 </div>
@@ -181,7 +181,7 @@ echo "[TARGET]    OSCP  |  ETA: T-12 months  |  LOCKED IN"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raj-08-del&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/raj-08-del)
+[![trophy](https://github-profile-trophy.vercel.app/?username=raj-08-del&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=4&rank=S,AAA,AA,A,B,C,SECRET)](https://github.com/raj-08-del)
 
 </div>
 
